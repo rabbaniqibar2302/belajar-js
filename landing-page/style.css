@@ -3,21 +3,21 @@
     margin-right: 150px;
 }
 
-hr{
-    width: 50px;
-}
-
-.about, .facts, .skills, .resume, .portofolio, .services, .testimonial, .contact{
-    padding-bottom: 30px;
-}
-
 h3{
-    font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #173b6c;
+    font-weight: bold;
+}
+
+hr{
+    width: 50px;
 }
 
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #092041;
+}
+
+.about, .facts, .skills, .resume, .portofolio, .services, .testimonial, .contact{
+    padding-bottom: 30px;
 }
